@@ -1,4 +1,4 @@
-Requires .net 4.0
-I just took it from somewhere else when this was an open source project and cleaned it a bit. Works for me.
+需要.net 4.0
+这是一个开源项目，我把它从其他地方拿走了，并清理了一下。 为我工作。
 
-Be adviced however, that at least in my experience it generates lots of small .trc files which may sum up to take a lot of space.
+不过要注意的是，至少在我的经验中，它会产生很多小的.trc文件，这些文件可能会占用大量的空间。
