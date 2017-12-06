@@ -1,0 +1,9 @@
+C:\Users\Kim.gao\Desktop\free-sql-server-profiler-master\source\SqlServerTools\bin\Debug\SqlServerTools.dll
+C:\Users\Kim.gao\Desktop\free-sql-server-profiler-master\source\SqlServerTools\bin\Debug\SqlServerTools.pdb
+C:\Users\Kim.gao\Desktop\free-sql-server-profiler-master\source\SqlServerTools\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\Kim.gao\Desktop\free-sql-server-profiler-master\source\SqlServerTools\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\Kim.gao\Desktop\free-sql-server-profiler-master\source\SqlServerTools\bin\Debug\Microsoft.SqlServer.SmoEnum.dll
+C:\Users\Kim.gao\Desktop\free-sql-server-profiler-master\source\SqlServerTools\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\Kim.gao\Desktop\free-sql-server-profiler-master\source\SqlServerTools\bin\Debug\nunit.framework.dll
+C:\Users\Kim.gao\Desktop\free-sql-server-profiler-master\source\SqlServerTools\obj\Debug\SqlServerTools.dll
+C:\Users\Kim.gao\Desktop\free-sql-server-profiler-master\source\SqlServerTools\obj\Debug\SqlServerTools.pdb
